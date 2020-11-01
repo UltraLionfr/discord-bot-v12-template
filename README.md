@@ -17,8 +17,9 @@ Voici les packages à installer. Vous pouvez cliquer directement sur le package 
 # Configuration
 
 Pour configurer le bot rendez vous dans le fichier **config.json** et modifier la première ligne `"token": "token_du_bot",` et mettez le token de votre bot discord.
-\n Vous pouvez également modifier le préfix juste en dessous.
-
+<br/>
+Vous pouvez également modifier le préfix juste en dessous.
+<br/>
 Ensuite entrer la commande suivante pour démarrer le bot
 
 ```
