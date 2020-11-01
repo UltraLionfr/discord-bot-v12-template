@@ -1,6 +1,6 @@
 # discord-bot-v12-template
 
-Ce dépot est un template de bot pour discord qui utilise sa dernière version la v12.
+Ce dépôt est un template de bot pour discord qui utilise sa dernière version la v12.
 
 ## Télécharger le template du bot
 
