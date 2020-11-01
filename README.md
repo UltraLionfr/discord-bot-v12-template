@@ -2,7 +2,7 @@
 
 Ce dépot est un template de bot pour discord qui utilise sa dernière version la v12.
 
-##Télécharger le template du bot
+## Télécharger le template du bot
 
 ```bash
 $ git clone https://github.com/UltraLionfr/discord-bot-v12-template
